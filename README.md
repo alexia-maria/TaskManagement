@@ -1,4 +1,4 @@
-# TaskManagement
+# Task Management
 
 With a user-friendly interface built using Angular, HTML and CSS, the application allows users to easily add tasks for themselves or for others and mark them as complete.
 
